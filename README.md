@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/rpnspkt" target="blank"><img src="https://img.shields.io/twitter/follow/rpnspkt?logo=twitter&style=for-the-badge" alt="rpnspkt" /></a> </p>
 
-- 🔭 I’m currently working at **Cotiviti**
+- 🔭 I’m currently working at **Cotiviti → Infinite**
 
-- 🌱 I’m currently learning **Data Science: Machine Learning, Computer Vision, Deep Learning**
+- 🌱 I’m currently exploring **Data Science: Machine Learning, NLP, LLM, Computer Vision, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpansapkota](https://github.com/arpansapkota)
 
